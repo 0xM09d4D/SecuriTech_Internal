@@ -1,0 +1,5 @@
+Meeting Notes - 2025-01-15
+
+- Discussed API vulnerabilities.
+- Dev team warned about credential leaks.
+- Reminder to remove outdated credentials from repo.
